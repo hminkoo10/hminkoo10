@@ -2,6 +2,11 @@
 
 ### I'm a common student programmer & gamer
 
+# Introduction
+
+
+I usually play Minecraft or Tetris a lot. When I play Minecraft, I mostly manage server or develop plugins. My preferred language is Skript and I occasionally use Kotlin. Finally, I don't do much right now, but I'm developing a Discord bot in Python.
+
 ## Language
 
 Python
