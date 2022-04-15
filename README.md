@@ -1,4 +1,4 @@
-# Hi There👋
+# Hi There👋 Welcome to my github! I'm Hyunmin Koo!
 
 ### I'm a common student programmer & gamer
 
@@ -12,6 +12,8 @@ I usually play Minecraft or Tetris a lot. When I play Minecraft, I mostly manage
 Python
 
 Skript
+
+Html
 
 # Contact
 
