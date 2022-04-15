@@ -19,6 +19,6 @@ Discord : [레칼#5252](https://discord.com/users/712290125505363980)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8,show_icons=true)
 
-Discord Information
+#Discord Information
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/712290125505363980?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/712290125505363980)
+![Discord](https://discord.c99.nl/widget/theme-2/712290125505363980.png)
