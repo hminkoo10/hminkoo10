@@ -11,7 +11,7 @@ Skript
 
 Mail : kongryeong@pixeler.cf
 
-Discord : 레칼#5252
+Discord : [레칼#5252](https://discord.com/users/712290125505363980)
 
 # Git Information
 
