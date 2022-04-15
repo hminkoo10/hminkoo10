@@ -1,4 +1,4 @@
-# Hi There👋 Welcome to my github! I'm Hyunmin Koo!
+# Hi There👋 Welcome to my github!
 
 ### I'm a common student programmer & gamer
 
