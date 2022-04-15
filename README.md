@@ -22,3 +22,4 @@ Discord : [레칼#5252](https://discord.com/users/712290125505363980)
 #Discord Information
 
 ![Discord](https://discord.c99.nl/widget/theme-2/712290125505363980.png)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/712290125505363980?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/712290125505363980)
