@@ -10,6 +10,7 @@ Skript
 # Contact
 
 Mail : kongryeong@pixeler.cf
+
 Discord : 레칼#5252
 
 # Git Information
