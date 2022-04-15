@@ -1,18 +1,18 @@
-#Hi There👋
+# Hi There👋
 ---
-###I'm a common student programmer & gamer
+### I'm a common student programmer & gamer
 
-##Language
+## Language
 ---
 Python
 Skript
 
-Contact
+# Contact
 ---
 Mail : kongryeong@pixeler.cf
 Discord : 레칼#5252
 
-Git Information
+# Git Information
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hminkoo10&show_icons=true)
 
