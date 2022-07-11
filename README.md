@@ -21,7 +21,7 @@ Mail : kongryeong@pixeler.cf
 
 Urgent Mail : hmin.koo10@gmail.com
 
-Discord : [레칼#5252](https://discord.com/users/712290125505363980)
+Discord : [Milky2110#5252](https://discord.com/users/712290125505363980)
 
 # Git Information
 
