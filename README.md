@@ -4,6 +4,7 @@
 
 # Introduction
 
+**귀찮아서 번역기돌림 ㅅㄱ**
 
 I usually play Minecraft or Tetris a lot. When I play Minecraft, I mostly manage server or develop plugins. My preferred language is Skript and I occasionally use Kotlin. Finally, I don't do much right now, but I'm developing a Discord bot in Python.
 
