@@ -4,17 +4,11 @@
 
 # Introduction
 
-**귀찮아서 번역기돌림 ㅅㄱ**
-
-I usually play Minecraft or Tetris a lot. When I play Minecraft, I mostly manage server or develop plugins. My preferred language is Skript and I occasionally use Kotlin. Finally, I don't do much right now, but I'm developing a Discord bot in Python.
+흑역사라 비공개함 
 
 ## Language
 
 Python
-
-Skript
-
-~~Entry~~
 
 # Contact
 
@@ -22,7 +16,7 @@ Mail : kongryeong@pixeler.cf
 
 Urgent Mail : hmin.koo10@gmail.com
 
-Discord : [Milky2110#5252](https://discord.com/users/712290125505363980)
+Discord : [밀키스#0001](https://discord.com/users/712290125505363980)
 
 # Git Information
 
