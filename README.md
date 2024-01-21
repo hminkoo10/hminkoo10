@@ -4,7 +4,7 @@
 
 # Introduction
 
-흑역사라 비공개함 
+없어요;
 
 ## Language
 
@@ -12,11 +12,11 @@ Python
 
 # Contact
 
-Mail : kongryeong@pixeler.cf
+Mail : milky2110@icloud.com
 
-Urgent Mail : hmin.koo10@gmail.com
+Urgent Mail : hminkoo10@naver.com
 
-Discord : [밀키스#0001](https://discord.com/users/712290125505363980)
+~~Discord : [밀키스#0001](https://discord.com/users/712290125505363980)~~
 
 # Git Information
 
