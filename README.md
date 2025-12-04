@@ -4,7 +4,7 @@
 
 # Introduction
 
-없어요;
+쓰기귀찮았어요
 
 ## Language
 
