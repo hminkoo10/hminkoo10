@@ -17,3 +17,5 @@ Mail : hminkoo10@naver.com
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hminkoo10&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8,show_icons=true)
+
+- 프로젝트는 대부분 Private으로 올리고 있습니다.
