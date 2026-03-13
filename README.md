@@ -4,7 +4,7 @@
 
 I am a student in Hacking Defense Department at Korea Digital Media High School.
 
-## Language
+# Language
 
 My primary programming language is Python.
 
