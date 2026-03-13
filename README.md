@@ -1,31 +1,19 @@
 # Hi There👋 Welcome to my github!
 
-### I'm a common student programmer & gamer
-
 # Introduction
 
-쓰기귀찮았어요
+I am a student in Hacking Defense Department at Korea Digital Media High School.
 
 ## Language
 
-Python
+My primary programming language is Python.
 
 # Contact
 
-Mail : milky2110@icloud.com
-
-Urgent Mail : hminkoo10@naver.com
-
-~~Discord : [밀키스#0001](https://discord.com/users/712290125505363980)~~
+Mail : hminkoo10@naver.com
 
 # Git Information
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hminkoo10&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8,show_icons=true)
-
-# Discord Information
-
-[![Discord](https://discord.c99.nl/widget/theme-2/712290125505363980.png)](https://discord.com/users/712290125505363980)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/712290125505363980?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/712290125505363980)
