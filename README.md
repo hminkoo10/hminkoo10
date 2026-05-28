@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:A7F3D0,100:FDE68A&height=170&section=header&text=Hyunmin%20Koo&fontSize=48&fontColor=111827&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20School%20Tools%20%7C%20milky.kr&descAlignY=58&descSize=16" alt="Hyunmin Koo profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:A7F3D0,100:FDE68A&height=170&section=header&text=Hyunmin%20Koo&fontSize=48&fontColor=111827&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Develop%20Meaningful%20Tools%20%7C%20milky.kr&descAlignY=58&descSize=16" alt="Hyunmin Koo profile banner" />
 </div>
 
 <div align="center">
@@ -39,15 +39,6 @@
   <img src="https://img.shields.io/badge/ChatGPT-111827?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 </div>
-
-## Projects
-
-- 급식 자동 업로더: 솔빛중, 디미고 급식 정보 자동화
-- 한마음 체육대회 점수 계산기: 학교 행사 운영 보조
-- 학급 웹사이트: 공지, 급식, 시간표, 자리 배치
-- 소규모 내신 자료 공유방: Discord 봇과 Flask 웹 패널
-- 마플타종: 학원 타종 시간표 관리
-- Naru Discord Bot: 협업으로 만든 다기능 봇
 
 ## Activity
 
