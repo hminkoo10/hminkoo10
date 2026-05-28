@@ -1,42 +1,26 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:A7F3D0,100:FDE68A&height=170&section=header&text=Hyunmin%20Koo&fontSize=48&fontColor=111827&animation=fadeIn&fontAlignY=35&desc=Student%20Developer%20%7C%20Python%20%7C%20School%20Tools&descAlignY=58&descSize=16" alt="Hyunmin Koo profile banner" />
-</div>
+# Hyunmin Koo
 
-<div align="center">
-  <a href="https://github.com/hminkoo10">
-    <img src="https://img.shields.io/badge/GitHub-hminkoo10-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub hminkoo10" />
-  </a>
-  <a href="mailto:hminkoo10@naver.com">
-    <img src="https://img.shields.io/badge/Mail-hminkoo10%40naver.com-22C55E?style=for-the-badge&logo=naver&logoColor=white" alt="Mail hminkoo10@naver.com" />
-  </a>
-  <a href="https://www.notion.so/Hyunmin-s-Portfolio-24077783a92f4d06a9bb568739f2d1f4?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-Notion-ffffff?style=for-the-badge&logo=notion&logoColor=111827&labelColor=ffffff&color=e5e7eb" alt="Notion portfolio" />
-  </a>
-</div>
+한국디지털미디어고등학교 해킹방어과 25기 구현민입니다.
 
-## About
+학교 생활에서 바로 쓸 수 있는 작은 도구를 만듭니다.
 
-안녕하세요. 한국디지털미디어고등학교 해킹방어과 25기 구현민입니다.
+- Site: https://milky.kr
+- Mail: me@milky.kr
+- GitHub: https://github.com/hminkoo10
 
-Python과 Flask를 중심으로 급식 알림, 학급 웹사이트, 점수 계산기, Discord 봇처럼 주변 사람이 실제로 쓰는 프로젝트를 만들고 있습니다.
+## Stack
 
-## What I Like
+- Main: Python
+- Framework: HTML
+- Tools: GitHub, VS Code, Ubuntu, sh, ChatGPT, Claude
 
-- 반복되는 일을 자동화해서 시간을 줄이는 것
-- 친구, 선생님, 학교에서 바로 써볼 수 있는 서비스를 만드는 것
-- 만들고 끝내기보다 운영하면서 더 좋게 고치는 것
-- 새 기술을 프로젝트 안에서 직접 부딪혀 배우는 것
+## Projects
 
-## Tech Stack
+- 급식 자동 업로더: 솔빛중, 디미고 급식 정보 자동화
+- 한마음 체육대회 점수 계산기: 학교 행사 운영 보조
+- 학급 웹사이트: 공지, 급식, 시간표, 자리 배치
+- 소규모 내신 자료 공유방: Discord 봇과 Flask 웹 패널
+- 마플타종: 학원 타종 시간표 관리
+- Naru Discord Bot: 협업으로 만든 다기능 봇
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.py" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</div>
-
-
-## Activity
-
-<div align="center"> <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hminkoo10&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="hminkoo10 GitHub stats" /> <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hminkoo10&layout=compact&theme=default&hide_border=true&langs_count=8" alt="hminkoo10 top languages" /> </div> <div align="center"> <sub>작게 만들고, 직접 써보고, 계속 고칩니다.</sub> </div>
+Notion 포트폴리오 링크는 공개하지 않습니다.
